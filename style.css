@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+h1,h2,h3{
+  text-align: center;
+  font-size: 25px;
+}
+
+
+figure{
+  text-align:center
+}
+
+header{
+  text-align:center;
+}
+a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background:pink;
+}
+p{
+  text-align:center;
+}
+p#featured-property{
+  margin-left:auto;
+  margin-right:auto;
+  width:800px;
+}
+figure{
+  text-align:center;
+}
